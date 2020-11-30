@@ -1,0 +1,17 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "uri": {
+          "title": "Tender URI",
+          "description": "Tender details in Compras Dominicana",
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri"
+        }
+      }
+    }
+  }
+}

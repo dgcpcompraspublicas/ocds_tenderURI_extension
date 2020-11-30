@@ -1,0 +1,17 @@
+{
+  "name": {
+    "en": "tenderURI"
+  },
+  "description": {
+    "en": "Tender details in Compras Dominicana"
+  },
+  "documentationUrl": {
+    "en": ""
+  },
+  "compatibility": [
+    "1.1"
+  ],
+  "schemas": [
+    "release-schema.json"
+  ]
+}
